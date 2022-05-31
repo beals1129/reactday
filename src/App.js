@@ -3,6 +3,7 @@ import './App.css';
 import Counter from './Component/Counter';
 
 function App() {
+  const number = 5;
   return (
     <div>
       <Counter/>
